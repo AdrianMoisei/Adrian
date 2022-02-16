@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>arhimedes.ro</title>
+    <link href="https://AdrianMoisei/github.io/Adrian/feed.xml" rel="self" />
+    <link href="https://AdrianMoisei/github.io/Adrian" />
+    <updated>2022-02-16T11:39:39+02:00</updated>
+    <author>
+        <name>Adrian Moisei</name>
+    </author>
+    <id>https://AdrianMoisei/github.io/Adrian</id>
+
+    <entry>
+        <title>Actualizari ERP-Arhimedes</title>
+        <author>
+            <name>Adrian Moisei</name>
+        </author>
+        <link href="https://AdrianMoisei/github.io/Adrian/actualizari-erp-arhimedes.html"/>
+        <id>https://AdrianMoisei/github.io/Adrian/actualizari-erp-arhimedes.html</id>
+
+        <updated>2022-02-16T11:39:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                    🤲
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>🤲</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

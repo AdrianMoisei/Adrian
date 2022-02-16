@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "arhimedes.ro",
+    "description": "",
+    "home_page_url": "https://AdrianMoisei/github.io/Adrian",
+    "feed_url": "https://AdrianMoisei/github.io/Adrian/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Adrian Moisei"
+    },
+    "items": [
+        {
+            "id": "https://AdrianMoisei/github.io/Adrian/actualizari-erp-arhimedes.html",
+            "url": "https://AdrianMoisei/github.io/Adrian/actualizari-erp-arhimedes.html",
+            "title": "Actualizari ERP-Arhimedes",
+            "summary": "🤲",
+            "content_html": "<p>🤲</p>",
+            "author": {
+                "name": "Adrian Moisei"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-16T11:39:39+02:00",
+            "date_modified": "2022-02-16T11:39:39+02:00"
+        }
+    ]
+}
